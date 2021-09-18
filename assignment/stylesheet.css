@@ -1,8 +1,16 @@
 .toptext {
   background-color: #8c0d0d;
   color: #ffb8b8;
+  text-align: center;
 }
 
 .bottomtext {
   background-color: lightgray;
+  padding: 1em;
+}
+
+body {
+  background-image: url("record.png");
+  background-repeat: repeat-repeat;
+  margin: 0;
 }
